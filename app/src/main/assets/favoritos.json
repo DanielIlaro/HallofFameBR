@@ -1,0 +1,38 @@
+{
+"esportes":[
+  {
+    "Nome":"Futebol Americano",
+    "Liga_Famosa":"NFL",
+    "Atual_Campeao": "Philadelphia Eagles"
+  },
+
+  {
+    "Nome": "Futebol",
+    "Liga_Famosa": "BBVA",
+    "Atual_Campeao": "Real Madrid"
+  },
+
+  {
+    "Nome": "Baseball",
+    "Liga_Famosa": "MLB",
+    "Atual_Campeao": "Houston Astros"
+  },
+
+  {
+    "Nome": "Basquete",
+    "Liga_Famosa": "NBA",
+    "Atual_Campeao": "Worrior States"
+  },
+
+  {
+    "Nome": "Hockey no Gelo",
+    "Liga_Famosa": "NHL",
+    "Atual_Campeao": ""
+  },
+  {
+    "Nome": "Automobilismo",
+    "Liga_Famosa": "Formula1",
+    "Atual_Campeao": ""
+  }
+]
+}

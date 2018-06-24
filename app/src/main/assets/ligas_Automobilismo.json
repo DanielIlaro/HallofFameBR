@@ -1,0 +1,19 @@
+{
+  "ligas_Automobilismo":[
+   {
+    "Nome" : "Formula1",
+    "Equipes":[
+            "Mercedes GP",
+            "Ferrari",
+            "Red Bull",
+            "Force India",
+            "Williams",
+            "Renault",
+            "Toro Rosso",
+            "Haas",
+            "McLaren",
+            "Sauber"
+        ]
+    }
+]
+}

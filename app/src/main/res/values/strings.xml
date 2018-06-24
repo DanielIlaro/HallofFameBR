@@ -1,0 +1,118 @@
+<resources>
+    <string name="app_name">Hall Of Fame BR</string>
+    <!-- Tela Login -->
+    <string name="edit_nome">Email</string>
+    <string name="edit_senha">Senha</string>
+    <string name="login">Login</string>
+    <string name="acessar">Acessar</string>
+    <string name="criarConta">clique para criar sua conta</string>
+    <string name="sair_conta">Sair da Conta</string>
+
+    <!--Tela Criar conta-->
+    <string name="tela_criar_conta">Crie sua Conta</string>
+    <string name="digite_nome">Digite seu e-mail:</string>
+    <string name="digite_sua_senha">Digite sua senha:</string>
+    <string name="repita_senha">Repita a senha escolhida:</string>
+    <string name="criar_e_fazer_login">Criar e Entrar</string>
+
+    <!--Acessar o facebook-->
+    <string name="facebook_app_id">158060794902693</string>
+    <string name="fb_login_protocol_scheme">fb158060794902693</string>
+    <string name="title_activity_main">HALL OF FAME BR</string>
+    <string name="faca_login">Faça Login</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_settings">Settings</string>
+
+    <!--Valores Menu -->
+    <string name="favoritos">Assuntos Favoritos</string>
+    <string name="noticias">Todas as Notícias</string>
+    <string name="login_menu">Fazer Login</string>
+    <string name="definir_favoritos">Adicionar Favoritos</string>
+    <string name="title_activity_favoritos">FavoritosActivity</string>
+    <string name="eventos">Guia dos Jogos</string>
+    <string name="equipe">Sobre</string>
+    <string name="nav_conf">Configurações</string>
+    <string name="nav_classificacao">Copa do Mundo 2018</string>
+
+    <!--Informações -->
+    <string name="pagina_informacao">Quais seus assuntos favoritos</string>
+    <string name="esporte">Qual seu esporte favorito?</string>
+    <string name="time">Qual seu time favorito?</string>
+    <string name="ligas">Qual sua liga favorita?</string>
+    <string name="btn_confirma">Confirmar</string>
+    <string name="pular">Pular</string>
+    <string name="ver_favoritos">Ver Favoritos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_esporte">Esporte</string>
+    <string name="title_liga">Liga</string>
+    <string name="title_time">Time</string>
+
+    <!-- Meu Favoritos  -->
+    <string name="titulo_meu_favoritos">Meus Favoritos</string>
+    <string name="btn_voltar_noticias">Pagina de Noticias</string>
+    <string name="btn_adicionar_novo_favorito"> Novo Favorito </string>
+
+    <!--List Favoritos-->
+    <string name="esporte_fav">Esporte: </string>
+    <string name="liga_fav">Liga: </string>
+    <string name="time_fav">Time: </string>
+
+    <!--EventoActivity-->
+    <string name="titulo_evento">Eventos</string>
+
+    <!--EventoCard-->
+    <string name="esporte_card">Esporte: </string>
+    <string name="data_card">Data: </string>
+    <string name="aovivo_card">Ao Vivo: </string>
+
+    <!--Equipe-->
+    <string name="titulo_equipe">Sobre</string>
+
+    <!--Alerta Wifi-->
+    <string name="titulo_wifi">Sem Conexão</string>
+    <string name="aviso_wifi">Infelizmente não podemos carregar as informações sem uma conexão wifi</string>
+    <string name="btn_wifi">Reiniciar o App</string>
+
+    <!--Configurações-->
+    <string name="titulo_conf">Configurações</string>
+    <string name="escolha_cor_noticias">Cor do fundo das notícias</string>
+
+    <!--Tabela copa-->
+    <string name="position">Posições</string>
+    <string name="selecoes">Seleções</string>
+    <string name="pont">P</string>
+    <string name="vitorias">V</string>
+    <string name="empates">E</string>
+    <string name="derrota">D</string>
+    <string name="gols_feitos">GF</string>
+    <string name="gols_sofridos">GS</string>
+    <string name="saldo_gols">SG</string>
+
+    <!--Classificação das ligas e copas-->
+    <string name="ligas_e_copas">Classificação da Copa</string>
+    <string name="copa_do_mundo">Fase de Grupos</string>
+    <string name="oitavas">Oitavas de finais</string>
+    <string name="quartas">Quartas de finais</string>
+    <string name="semi">Semi-final</string>
+    <string name="final_copa">Final</string>
+    <string name="terceiroLugar">Terceiro lugar</string>
+
+    <!--Tabela Copa do Mundo -->
+    <string name="tituloCopaMundo">Copa do Mundo 2018</string>
+    <string name="grupoA">A</string>
+    <string name="grupoB">B</string>
+    <string name="grupoC">C</string>
+    <string name="grupoD">D</string>
+    <string name="grupoE">E</string>
+    <string name="grupoF">F</string>
+    <string name="grupoG">G</string>
+    <string name="grupoH">H</string>
+
+    <!--SOBRE FOTOS-->
+    <string name="bandeira_de_selecao">Bandeira da Seleção</string>
+    <!--versão-->
+    <string name="versaodoapp">Versão: 6.5</string>
+
+</resources>

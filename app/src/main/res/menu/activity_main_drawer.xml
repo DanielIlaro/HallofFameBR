@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_login"
+            android:icon="@drawable/ic_mr_button_connected_00_light"
+            android:title="@string/login_menu" />
+        <item
+            android:id="@+id/nav_noticias"
+            android:icon="@android:drawable/stat_notify_sync"
+            android:title="@string/noticias" />
+        <item
+            android:id="@+id/nav_favoritos"
+            android:icon="@android:drawable/ic_menu_sort_by_size"
+            android:title="@string/favoritos" />
+        <item
+            android:id="@+id/nav_escolher_favoritos"
+            android:icon="@android:drawable/btn_star_big_on"
+            android:title="@string/definir_favoritos" />
+        <item
+            android:id="@+id/nav_eventos"
+            android:icon="@android:drawable/ic_menu_agenda"
+            android:title="@string/eventos" />
+        <item
+            android:id="@+id/nav_classificacao"
+            android:icon="@drawable/ic_action_taca_copa"
+            android:title="@string/nav_classificacao" />
+        <item
+            android:id="@+id/nav_conf"
+            android:icon="@drawable/ic_menu_manage"
+            android:title="@string/nav_conf" />
+        <item
+            android:id="@+id/nav_equipe"
+            android:icon="@android:drawable/ic_menu_myplaces"
+            android:title="@string/equipe" />
+    </group>
+
+</menu>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "626137623191",
+    "firebase_url": "https://halloffamebr-c2ad2.firebaseio.com",
+    "project_id": "halloffamebr-c2ad2",
+    "storage_bucket": "halloffamebr-c2ad2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:626137623191:android:197f400dba5a5c2d",
+        "android_client_info": {
+          "package_name": "br.com.alphaaquilae.halloffamebr"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "626137623191-0asehio3bqhj4hkd3s2nettama66kig4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "br.com.alphaaquilae",
+            "certificate_hash": "2535778522478411599856913377821334357533"
+          }
+        },
+        {
+          "client_id": "626137623191-r3knfslkvd5ff6hi3ofie3ucknohrsrg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIPlizqk66ysZeSkM2dPqJPjtzo1oPmFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "626137623191-r3knfslkvd5ff6hi3ofie3ucknohrsrg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

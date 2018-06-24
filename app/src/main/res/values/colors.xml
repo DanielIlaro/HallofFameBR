@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#151e49</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#e5840c</color>
+    <color name="primary_dark_material_light_1">#757575</color>
+    <color name="primary_dark_material_light_2">#103178</color>
+    <color name="cor_tab_copa">#eae8b6</color>
+    <color name="yellow_button">#ffee00</color>
+</resources>
