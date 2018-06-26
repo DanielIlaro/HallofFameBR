@@ -1,16 +1,13 @@
 package br.com.alphaaquilae.halloffamebr
 
 import android.graphics.Color
-import android.graphics.drawable.ColorDrawable
-import android.graphics.drawable.Drawable
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.widget.*
-import br.com.alphaaquilae.halloffamebr.card.VariaveisCopa
-import br.com.alphaaquilae.halloffamebr.card.VariaveisJogosCopa
+import br.com.alphaaquilae.halloffamebr.adapter.VariaveisCopa
+import br.com.alphaaquilae.halloffamebr.adapter.VariaveisJogosCopa
 import com.google.firebase.database.*
 import com.squareup.picasso.Picasso
-import kotlinx.android.synthetic.main.jogos_copa.*
 
 class TabelaActivity : AppCompatActivity() {
 

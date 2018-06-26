@@ -21,14 +21,14 @@
         android:supportsRtl="true"
         android:theme="@style/HallOfFame">
         <service
-            android:name=".mensagem.MyFirebaseMessagingService"
+            android:name=".notificacao.MyFirebaseMessagingService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.MESSAGING_EVENT" />
             </intent-filter>
         </service>
         <service
-            android:name=".mensagem.MyFirebaseInstanceIDService"
+            android:name=".notificacao.MyFirebaseInstanceIDService"
             android:exported="false">
             <intent-filter>
                 <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
@@ -105,9 +105,6 @@
             android:screenOrientation="portrait" />
         <activity
             android:name=".MeusFavoritosActivity"
-            android:screenOrientation="portrait" />
-        <activity
-            android:name=".EventosActivity"
             android:screenOrientation="portrait" />
         <activity
             android:name=".EquipeActivity"

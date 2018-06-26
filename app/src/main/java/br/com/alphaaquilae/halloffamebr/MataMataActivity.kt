@@ -4,7 +4,7 @@ import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
 import android.support.v7.widget.RecyclerView
 import android.widget.Toast
-import br.com.alphaaquilae.halloffamebr.card.*
+import br.com.alphaaquilae.halloffamebr.adapter.*
 import com.google.firebase.database.*
 import android.widget.LinearLayout
 import android.support.v7.widget.DividerItemDecoration

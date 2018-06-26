@@ -6,8 +6,8 @@ import android.database.Cursor
 import android.widget.ProgressBar
 import android.widget.Toast
 import br.com.alphaaquilae.halloffamebr.BD.BancoDados
-import br.com.alphaaquilae.halloffamebr.card.NoticiaAdapter
-import br.com.alphaaquilae.halloffamebr.card.VariaveisNoticias
+import br.com.alphaaquilae.halloffamebr.adapter.NoticiaAdapter
+import br.com.alphaaquilae.halloffamebr.adapter.VariaveisNoticias
 import com.google.firebase.auth.FirebaseAuth
 import com.google.firebase.database.*
 

@@ -1,4 +1,4 @@
-package br.com.alphaaquilae.halloffamebr.card
+package br.com.alphaaquilae.halloffamebr.adapter
 
 import com.google.firebase.database.Exclude
 import java.util.HashMap

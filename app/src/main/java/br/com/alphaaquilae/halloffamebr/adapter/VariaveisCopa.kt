@@ -1,7 +1,6 @@
-package br.com.alphaaquilae.halloffamebr.card
+package br.com.alphaaquilae.halloffamebr.adapter
 
 import com.google.firebase.database.Exclude
-import com.google.firebase.database.IgnoreExtraProperties
 
 /**
  * Created by danielilaro on 20/05/18.

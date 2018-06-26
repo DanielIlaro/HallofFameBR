@@ -1,7 +1,6 @@
-package br.com.alphaaquilae.halloffamebr.card
+package br.com.alphaaquilae.halloffamebr.adapter
 
 import android.content.Context
-import android.graphics.Picture
 import android.support.v7.widget.RecyclerView
 import android.view.LayoutInflater
 import android.view.View
@@ -10,7 +9,6 @@ import android.widget.ImageView
 import android.widget.TextView
 import br.com.alphaaquilae.halloffamebr.R
 import com.squareup.picasso.Picasso
-import org.w3c.dom.Text
 
 /**
  * Created by danielilaro on 26/05/18.

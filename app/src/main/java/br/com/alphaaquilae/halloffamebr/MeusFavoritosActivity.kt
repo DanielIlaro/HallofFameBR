@@ -7,8 +7,8 @@ import android.os.Bundle
 import android.widget.Button
 import android.widget.ListView
 import br.com.alphaaquilae.halloffamebr.BD.BancoDados
-import br.com.alphaaquilae.halloffamebr.card.FavoritosAdapter
-import br.com.alphaaquilae.halloffamebr.card.VariaveisFavoritos
+import br.com.alphaaquilae.halloffamebr.adapter.FavoritosAdapter
+import br.com.alphaaquilae.halloffamebr.adapter.VariaveisFavoritos
 import com.google.firebase.auth.FirebaseAuth
 
 class MeusFavoritosActivity : AppCompatActivity() {

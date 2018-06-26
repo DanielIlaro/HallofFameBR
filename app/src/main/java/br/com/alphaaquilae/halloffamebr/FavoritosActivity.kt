@@ -13,9 +13,9 @@ import android.widget.ListView
 import android.widget.ProgressBar
 import android.widget.TextView
 import android.widget.Toast
-import br.com.alphaaquilae.halloffamebr.card.NoticiaAdapter
-import br.com.alphaaquilae.halloffamebr.card.VariaveisEventos
-import br.com.alphaaquilae.halloffamebr.card.VariaveisNoticias
+import br.com.alphaaquilae.halloffamebr.adapter.NoticiaAdapter
+import br.com.alphaaquilae.halloffamebr.adapter.VariaveisEventos
+import br.com.alphaaquilae.halloffamebr.adapter.VariaveisNoticias
 import br.com.alphaaquilae.halloffamebr.favoritos.NoticiasFavoritas
 import com.facebook.AccessToken
 import com.facebook.GraphRequest

@@ -1,4 +1,4 @@
-package br.com.alphaaquilae.halloffamebr.mensagem;
+package br.com.alphaaquilae.halloffamebr.notificacao;
 
 import android.app.NotificationChannel;
 import android.app.NotificationManager;

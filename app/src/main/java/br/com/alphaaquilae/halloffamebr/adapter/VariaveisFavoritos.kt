@@ -1,4 +1,4 @@
-package br.com.alphaaquilae.halloffamebr.card
+package br.com.alphaaquilae.halloffamebr.adapter
 
 /**
  * Created by danielilaro on 06/04/18.
